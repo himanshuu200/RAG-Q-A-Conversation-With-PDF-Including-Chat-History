@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langchain_huggingface
+langchain_community
+faiss-cpu
+streamlit
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+starlette
+transformers
+langchain-chroma
+PyPDFLoader
